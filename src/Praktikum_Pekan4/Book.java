@@ -1,4 +1,4 @@
-package PraktikumPekan4;
+package Praktikum_Pekan4;
 
 public class Book {
     private String title;
