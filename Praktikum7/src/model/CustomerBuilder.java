@@ -8,7 +8,7 @@ public class CustomerBuilder {
     private String hp;
 
     public CustomerBuilder() {
-        // TODO Auto-generated constructor stub
+       
     }
 
     public CustomerBuilder setId(String id) {

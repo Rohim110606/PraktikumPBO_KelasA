@@ -1,5 +1,4 @@
 package model;
-
 public class User {
     String id, nama, username, password;
 
